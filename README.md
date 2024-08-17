@@ -14,7 +14,7 @@
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/3d-project-enhanced.git`
+1. Clone the repository: `git clone https://github.com/your-username/3d-project-enhance.git`
 2. Set up your OpenGL environment.
 3. Compile and run the project using your C++ compiler.
 
